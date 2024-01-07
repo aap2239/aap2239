@@ -16,6 +16,7 @@ Machine Learning Enthusiast | Deep Learning Researcher
 Data-driven innovator and machine learning enthusiast. Leveraging Python, Java, and JavaScript, I develop cutting-edge solutions for image processing, object detection, and natural language processing. Experienced in building end-to-end data science platforms, implementing algorithms, and contributing to transformative projects. Join me on a journey of continuous learning and impactful coding!
 
 * 🌍  I'm based in New York, NY 
+* :school: I completed a Master's Degree from Columbia University.
 * ✉️  You can contact me at [aap2239@columbia.edu](mailto:aap2239@columbia.edu)
 * 🧠  I'm learning Large Language Models and Retrieval Augmented Generation
 * 🤝  I'm open to collaborating on Open Source Projects and Machine Learning Research
